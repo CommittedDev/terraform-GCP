@@ -1,7 +1,7 @@
-#Basic commands:
+# Basic commands:
 
-terraform init 
-terraform fmt
+- terraform init
+- terraform fmt
 terraform validate
 terraform plan
 terraform apply
